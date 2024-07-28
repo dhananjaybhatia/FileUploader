@@ -29,7 +29,8 @@ This project is a web application that allows users to upload files to a server.
 ### Installation
 
 Clone the repository:
-   ``` git clone https://github.com/dhananjaybhatia/FileUploader.git
+   ```sh
+   git clone https://github.com/dhananjaybhatia/FileUploader.git
 
 
 Structure:
